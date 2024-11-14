@@ -30,4 +30,11 @@ Es el resultado de la búsqueda de información cartografía (mapas) de suelos e
   * Mapa de unidades de suelo en la cuenca del río Caroní. 
   * Mapa de erosión en la cuenca del río Caroní. 
   * Mapa de Capacidad de uso de la tierra en la cuenca del río Caroní.
+  
+---
 
+## Resultados de información obtenida {-}
+
+1. **Mapa de suelos de la cuenca del rio Caroni.**
+  
+<center>![](Imagenes/suelos_3_cc.jpg)</center>
