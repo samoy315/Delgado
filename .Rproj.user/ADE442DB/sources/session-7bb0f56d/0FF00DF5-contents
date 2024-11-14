@@ -1,0 +1,78 @@
+#Script para el arupaiento borroso del area de estudio de la fase 2 del diplomado
+#El Salvador
+#Fecha: Noviembre 2024
+
+setwd(""C:/Curso/Coberturas"")
+get()
+
+#Cargando paquetes y datos
+library(geocmeans)
+library(ggplot2)
+library(ggpubr)
+library(dplyr)
+library(viridis)
+library(spdep)
+library(tmap)
+
+library(sf)
+library(shapefiles)
+
+p200a <- st_read("Puntos_200a.shp")
+class(p200a)
+p200a <- na.omit(p200a)
+data <- p200a
+summary(data)
+
+spdep::set.mcOption(FALSE)
+
+spdep::set.coresOption(1L)
+
+#data(LyonIris)
+
+# Seleccionando las columnas para el analisis:
+names(data)
+
+AnalysisFields <-c("Total.Catc","Topographi","Relative.S","Profile.Cu","Plan.Curva",
+                   "Convergenc","Co_pend_20","Co_MDE_uw1")
+
+# Reescalando las columnas
+
+Data <- sf::st_drop_geometry(p200a[AnalysisFields])
+for (Col in names(Data)){
+  Data[[Col]] <- scale(Data[[Col]])
+}
+
+# ------------Kmeans clasico (agrupamiento duro Si o No)----------------------------------
+
+#Para explorar el conjunto de datos y elegir la cantidad correcta de clústeres/grupos (k),
+#proponemos comenzar con un kmeans clásico.
+
+# Encontrar el mejor k usando el r2 de la clasificación
+# Intentando k de 2 a 10
+
+R2s <- sapply(2:10,function(k){
+  Clust <- kmeans(Data,centers=k,iter.max = 150)
+  R2 <- Clust$betweenss / Clust$totss
+  return(R2)
+})
+
+Df <- data.frame(K=2:10, R2 = R2s)
+
+ggplot(Df)+
+  geom_line(aes(x=K,y=R2s), color="blue")+
+  geom_point(aes(x=K,y=R2s),color="red")+
+  xlab("Number of groups")+
+  ylab("R2 of classification")
+
+#Mapeemos los grupos obtenidos.
+
+KMeanClust <-  kmeans(Data,centers=4,iter.max = 150)
+p200a$Cluster <-paste("cluster",KMeanClust$cluster,sep="_")
+
+tm_shape(p200a) +
+  tm_dots("Cluster", palette = c("cluster_1"="palegreen3",
+                                 "cluster_2"="firebrick",
+                                 "cluster_3"="orange",
+                                 "cluster_4"="steelblue"), size = 0.08) +
+  tm_layout(legend.outside = TRUE, frame = FALSE)
+  
