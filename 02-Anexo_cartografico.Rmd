@@ -39,7 +39,7 @@ Es el resultado de la búsqueda de información cartografía (mapas) de suelos e
   
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="Imagenes/suelos_1_cc_d1.png" target="_blank" title="Mapa Generalizado de suelos"><img src="Imagenes/suelos_3_cc.jpg" alt="Mapa Generalizado de suelos" width="636" height="948"/></a>
+<a style = 'padding-right: 40px;' href="Imagenes/suelos_1_cc_d1.png" target="_blank" title="Mapa Generalizado de suelos"><img src="Imagenes/suelos_3_cc.jpg" alt="Mapa Generalizado de suelos"/></a>
 </p>
 </div>
 
