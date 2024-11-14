@@ -1,11 +1,5 @@
-fig:nice-fig
-tab:nice-tab
 about
 usage
 render-book
 preview-book
-chapters-and-sub-chapters
-captioned-figures-and-tables
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
-actividades-programadas
-posibles-estudios-fuentes-de-información-sobre-anexo-cartográficos
