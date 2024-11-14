@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Delgado/02-Anexo_cartografico.Rmd",
     "project_path": "02-Anexo_cartografico.Rmd",
     "type": "r_markdown",
-    "hash": "2629194630",
+    "hash": "4181052629",
     "contents": "",
     "dirty": false,
     "created": 1731594948305.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "41,190",
-        "scrollLine": "33"
+        "cursorPosition": "137,195",
+        "scrollLine": "129"
     },
     "folds": "",
-    "lastKnownWriteTime": 1731626352,
+    "lastKnownWriteTime": 1731626549,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1731626352893,
+    "last_content_update": 1731626549992,
     "read_only": false,
     "read_only_alternatives": []
 }
