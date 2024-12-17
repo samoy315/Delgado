@@ -1,0 +1,431 @@
+# BASE DE DATOS {-}
+
+<center>![](Imagenes/map-1974699_1280.png)</center>
+
+La finalidad de esta seccion es mostrar la base de información sobre suelos de la cuenca del rio Caroni consultada. Acumula capas del tipo raster (tiff) o vectoriales (shapefile) proyectadas cartograficamente en el sistema de coordenadas Universal Transversal Mercator (UTM), zona 20 del hemisferio norte y el datum SIRGAS-REGVEN (Sistema Geodésico Mundial 1984 - Red Geocéntrica Venezolana).
+
+Se desarrolló como una interfaz para descargar la geoinformación almacenada y organizada dentro de un repositorio en linea github. Ademas para facilitar la comprensión de esta información se muestra separada por variable o propiedades de los suelos y por fuente consultada.
+
+---
+
+## Clase de suelos {-}
+
+Comprende capas de geoinformacion sobre las clases taxonomicas de los suelos encontradas en diferentes fuentes y estudios realizados en la cuenca.
+
+### Plan Maestro de la cuenca del rio Caroni EDELCA {-}
+
+Este estudio se realizo entre los años 1999 y  2003 por EDELCA en colaboracion con PDVSA Palmaven, Tecnocolsul e Integral. Como base se tomaron diferentes estudios donde resaltan los realizados por tecmin de los años xxxx. 
+
+La informacion de suelos esta expresada en dos distintas extensiones y escalas, una a cuenca completa con escala 1:500.000 y la otra separada por subcuenca a escala 1:250.000. El sistema de clasificacion empleados es el Soils Taxonomy (USDAxxxx) y muestra unidades cartograficas de suelos en un nivel categorico de fases de grandes grupos. La figura a continuacion muestra la clase de los suelos de la cuenca.
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/suelos_1_cc_d1.png" target="_blank" title="Mapa Generalizado de suelos"><img style="border: 1px solid; color: Silver; " alt="Mapa Generalizado de suelos" src="Imagenes/suelos_3_cc.jpg" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Unidades de suelos Cuenca completa - 1:500.000|[Csueccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Unidades de suelos Bajo Caroni - 1:250.000|[Csuebcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Unidades de suelos Medio Caroni - 1:250.000|[Csuemcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Unidades de suelos Alto Caroni Este - 1:250.000|[Csueacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Unidades de suelos Alto Caroni Oeste - 1:250.000|[Csueacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Unidades de suelos Alto Paragua - 1:250.000|[Csueappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Unidades de suelos Bajo Paragua - 1:250.000|[Csuebppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+
+### Soilgrids {-}
+
+fsajghdfjsahgfdjsag
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip" target="_blank" title="Mapa Generalizado de suelos"><img style="border: 2px solid; color: Black; " alt="Mapa Generalizado de suelos" src="Imagenes/Csuewrbsg.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:------|:---:|
+|Base de referencia mundial (2006) Grupos de suelos - Resolucion 250 m|[Csuewrbsg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+### Base de datos de suelos armonizados de FAO {-}
+
+fsajghdfjsahgfdjsag
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/Csuebdhfao.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Escala/resolucion|Nombre archivo|
+|:----|:---:|:---:|
+|Base de referencia mundial (2006) Grupos de suelos|250 m|[Csuebcpm.zip](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Capacidad de uso de las tierras {-}
+
+jsdfsdfsgfjashgd
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+---
+
+## Riesgo de erosion potencial {-}
+
+lksajdhljksadhjdsh
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+---
+
+## Arena {-}
+
+ldskjfhljsdfhljfhd
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/5_arena.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Limo {-}
+
+sdlhflkjdshfljdshfl
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/6_Limo.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Limo (g/kg) 0 a 5 cm - resolucion 250 m|[Lim05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Limo (g/kg) 5 a 15 cm - resolucion 250 m|[Lim515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Limo (g/kg) 15 a 30 cm - resolucion 250 m|[Lim1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Arcilla {-}
+
+sdfhkljshdflkjshdlfkjh
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/4_Arcilla.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arcilla (g/kg) 0 a 5 cm - resolucion 250 m|[Arc05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arcilla (g/kg) 5 a 15 cm - resolucion 250 m|[Arc515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arcilla (g/kg) 15 a 30 cm - resolucion 250 m|[Arc1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Fragmento grueso {-}
+
+ksjdhgfkjhgsdkjhgsdfkhsg
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/7_Fragmento.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Fragmento grueso (cm3/dm3) 0 a 5 cm - resolucion 250 m|[Fra05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Fragmento grueso (cm3/dm3) 5 a 15 cm - resolucion 250 m|[Fra515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Fragmento grueso (cm3/dm3) 15 a 30 cm - resolucion 250 m|[Fra1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Densidad aperente {-}
+
+sfdfhlksjdhfljkhdsfjhkjsfd
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/3_Da.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Densidad aparente (cg/cm3) 0 a 5 cm - resolucion 250 m|[Dap05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Densidad aparente  (cg/cm3) 5 a 15 cm - resolucion 250 m|[Dap515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Densidad aparente  (cg/cm3) 15 a 30 cm - resolucion 250 m|[Dap1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Contenido volumetrico de agua a CC {-}
+
+sdlkhfjklhdsflkjhsdljkfh
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Conetnido volumetrico de agua a PMP {-}
+
+sdlkjhfljskdhfljsd
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## pH {-}
+
+sdkjhgfsdkjghfksdh
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Carbono organico {-}
+
+sdklhfdsjhfljsdhjkh
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Densidad de Carbono organico {-}
+
+sdjkfhlkdsjhfhksdjf
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Almacenaje de Carbono organico del suelo {-}
+
+sdkgfhjgdskjhgdshdsfhg
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Capacidad de intercambio cationico {-}
+
+sdnfjdshlkjsdhljfhskjdf
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Nitrogeno total {-}
+
+dfskjhfjkdshlkjsdhflkjdsf
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 15 a 30 cm - resolucion 250 m|[Are1530sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Conductividad electrica {-}
+
+sdlkjhfkjsdhlkjsdfhlkdsfhlkj
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+###### Enlaces para descarga {-}
+ 
+<div style="font-size: 12px"> 
+|Descripcion|Nombre archivo|
+|:----|:---:|
+|Arena (g/kg) 0 a 5 cm - resolucion 250 m|[Are05sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+|Arena (g/kg) 5 a 15 cm - resolucion 250 m|[Are515sg](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
+</div>
+
+---
+
+## Sitios de muestreo de suelos {-}
+
+sdfjhlsdkjfhljsdhfljdsfhljhs
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Clases de suelos FAO"><img style="border: 2px solid; color: Black; " alt="Csuebdhfao.png" src="Imagenes/xxxx.png" /></a>
+</p>
+</div>
+
+---
+
+## Soilgrids {-}
+
+De este estudio disponible en la web se obtuvieron diferentes variables de suelos, dentro de las cuales destacan las propiedades físicas y químicas: Densidad aparente; porcentaje de arena, limo y arcilla; Fragmento grueso, Capacidad de intercambio catiónico, Carbono orgánico de los suelos, su almacenaje y densidad,  pH, Nitrógeno, Contenido volumétrico de agua de los suelos. También las clases de suelos según la WRB y siete perfiles de suelos, con sus respectivos horizontes. A continuación se muestran algunas imágenes del estudio y posteriormente los enlaces de descarga de esta información.
+
+---
+
+###### Para descagar todo la base de informacion solo haga clic en la figura siguiente: {-}
+
+
