@@ -1,5 +1,27 @@
 h1:base-de-datos BASE DE DATOS
-h2:plan-maestro-de-la-cuenca Plan Maestro de la cuenca
-h2:soilgrids Soilgrids
-h6:densidad-aparente Densidad aparente
+h2:clase-de-suelos Clase de suelos
+h3:plan-maestro-de-la-cuenca-del-rio-caroni-edelca Plan Maestro de la cuenca del rio Caroni EDELCA
+h6:enlaces-para-descarga Enlaces para descarga
+h3:soilgrids Soilgrids
+h6:enlaces-para-descarga-1 Enlaces para descarga
+h3:base-de-datos-de-suelos-armonizados-de-fao Base de datos de suelos armonizados de FAO
+h6:enlaces-para-descarga-2 Enlaces para descarga
+h2:capacidad-de-uso-de-las-tierras Capacidad de uso de las tierras
+h2:riesgo-de-erosion-potencial Riesgo de erosion potencial
+h2:arena Arena
+h2:limo Limo
+h2:arcilla Arcilla
+h2:fragmento-grueso Fragmento grueso
+h2:densidad-aperente Densidad aperente
+h2:conetnido-volumetrico-de-agua-a-apm Conetnido volumetrico de agua a APM
+h2:conetnido-volumetrico-de-agua-a-cc Conetnido volumetrico de agua a CC
+h2:ph pH
+h2:carbono-organico Carbono organico
+h2:densidad-de-carbono-organico Densidad de Carbono organico
+h2:almacenaje-de-carbono-organico-del-suelo Almacenaje de Carbono organico del suelo
+h2:capacidad-de-intercambio-cationico Capacidad de intercambio cationico
+h2:nitrogeno-total Nitrogeno total
+h2:conductividad-electrica Conductividad electrica
+h2:sitios-de-muestreo-de-suelos Sitios de muestreo de suelos
+h2:soilgrids-1 Soilgrids
 
