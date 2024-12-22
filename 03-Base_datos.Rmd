@@ -511,6 +511,6 @@ Capa tipo vectorial de sitios de muestreos de suelos dentro de la cuenca, origin
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="BDsuelos_Caroni\3_Geoinformacion\Tablas/Lista_Capas_Metadata.xlsx" target="_blank" title="Lista de Capas y Metadatos"><img src="Imagenes/estadisticas1.png" alt="Lista de Capas y Metadatos" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="Zip/BDsuelos_Caroni.zip" target="_blank" title="Banco de informacion"><img src="Imagenes/directorio12.png" alt="Banco de informacion de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="Zip/BDsuelos_Caroni.zip" target="_blank" title="Banco de informacion sobre suelos"><img src="Imagenes/directorio12.png" alt="Banco de informacion sobre suelos" width="126" height="107"/></a>
 </p>
 </div>

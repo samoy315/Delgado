@@ -13,13 +13,12 @@ Otra fuente importante de información documental y cartográfica de la variable
 #### Area de Descargas {-}
 
 
-> Para descargar el **documento descriptivos** de los suelos de la cuenca y las **tablas con los componentes taxonomicos por unidades cartograficas** a las dos escalas estudiadas (1:500.000 y 1:250.000) haga clic en las figuras mostradas a continuacion. 
+> Para descargar el **documento descriptivos** de los suelos de la cuenca y la **tabla con los componentes taxonomicos por unidades cartograficas** para las dos escalas estudiadas (1:500.000 y 1:250.000) haga clic en las figuras mostradas a continuacion. 
 
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Suelos_Caroni_final201224.pdf" target="_blank" title="Documento descriptivo"><img src="Imagenes/archivo.png" alt="Documento descriptivo" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="Xls/UnidadesC500vs.xlsx" target="_blank" title="Tabla de suelos 1:500.000"><img src="Imagenes/estadisticas1.png" alt="Tabla de suelos 1:500.000" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="Xls/UnidadesC250vs.xlsx" target="_blank" title="Tabla de suelos 1:250.000"><img src="Imagenes/estadisticas1.png" alt="Tabla de suelos 1:250.000" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Suelos_Caroni_final201224.pdf" target="_blank" title="Documento descriptivo de suelos"><img src="Imagenes/archivo.png" alt="Documento descriptivo de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="Xls/Unidades_suelosvs.xlsx" target="_blank" title="Tabla de unidades de suelos"><img src="Imagenes/estadisticas1.png" alt="Tabla de unidades de suelos" width="126" height="107"/></a>
 </p>
 </div>
