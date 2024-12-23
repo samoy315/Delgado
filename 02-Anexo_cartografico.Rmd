@@ -21,7 +21,7 @@ Muestra las clases dominante de los suelos expresadas en unidades cartograficas,
   
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="Imagenes/suelos_1_cc_d1.png" target="_blank" title="Mapa Generalizado de suelos"><img style="border: 1px solid; color: Silver; " alt="Mapa Generalizado de suelos" src="Imagenes/suelos_3_cc.jpg" /></a>
+<a style = 'padding-right: 40px;' href="Imagenes/suelos_1_cc_d1.png" target="_blank" title="Mapa Generalizado de suelos"><img style="border: 1px solid; color: Silver; " alt="Mapa Generalizado de suelos" src="Imagenes/csue_cc_pm231224b.png "/></a>
 </p>
 </div>
 
