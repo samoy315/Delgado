@@ -31,7 +31,7 @@ La informacion de suelos esta expresada en dos distintas extensiones y escalas, 
 <div style="font-size: 12px"> 
 |Descripcion|Nombre archivo|
 |:----|:---:|
-|Unidades de suelos Cuenca completa - 1:500.000|[Csueccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/xxxx.zip)|
+|Unidades de suelos Cuenca completa - 1:500.000|[](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/xxxx.zip)|
 |Unidades de suelos Bajo Caroni - 1:250.000|[Csuebcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
 |Unidades de suelos Medio Caroni - 1:250.000|[Csuemcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuemcpm.zip)|
 |Unidades de suelos Alto Caroni Este - 1:250.000|[Csueacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueacepm.zip)|
@@ -49,7 +49,7 @@ De este estudio disponible en la web (https://soilgrids.org/) se obtuvieron dife
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip" target="_blank" title="Mapa Generalizado de suelos"><img style="border: 2px solid; color: Black; " alt="Mapa Generalizado de suelos" src="Imagenes/Csuewrbsg.png" /></a>
+<a style = 'padding-right: 40px;' href="Imagenes/Csuewrbsg.png" target="_blank" title="Mapa Generalizado de suelos"><img style="border: 2px solid; color: Black; " alt="Mapa Generalizado de suelos" src="Imagenes/Csuewrbsg.png" /></a>
 </p>
 </div>
 
@@ -89,7 +89,7 @@ Capa sobre la Capacidad de Uso de las tierras en la cuenca para dos alcance y es
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Capacidad de Uso"><img style="border: 2px solid; color: Silver; " alt="Csuebdhfao.png" src="Imagenes/cuso_cc_pm1.png" /></a>
+<a style = 'padding-right: 40px;' href="Imagenes/cuso_cc_pm1.png" target="_blank" title="Capacidad de Uso"><img style="border: 2px solid; color: Silver; " alt="Csuebdhfao.png" src="Imagenes/cuso_cc_pm2.jpg" /></a>
 </p>
 </div>
 
@@ -98,7 +98,7 @@ Capa sobre la Capacidad de Uso de las tierras en la cuenca para dos alcance y es
 <div style="font-size: 12px"> 
 |Descripcion|Nombre archivo|
 |:----|:---:|
-|Capacidad de uso de las tierras Cuenca completa - 1:500.000|[Cusoccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/xxxx.zip)|
+|Capacidad de uso de las tierras Cuenca completa - 1:500.000|[](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/xxxx.zip)|
 |Capacidad de uso de las tierras Bajo Caroni - 1:250.000|[Cusobcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusobcpm.zip)|
 |Capacidad de uso de las tierras Medio Caroni - 1:250.000|[Cusomcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusomcpm.zip)|
 |Capacidad de uso de las tierras Alto Caroni Este - 1:250.000|[Cusoacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoacepm.zip)|
@@ -115,7 +115,7 @@ Capa sobre el Riesgo de erosion potencial de las tierras, basado en la metodolog
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="Imagenes/Csuebdhfao.png" target="_blank" title="Riesgo de erosion potencial"><img style="border: 2px solid; color: Silver; " alt="Csuebdhfao.png" src="Imagenes/repo_cc_pm.png" /></a>
+<a style = 'padding-right: 40px;' href="Imagenes/rep_cc_pm.png" target="_blank" title="Riesgo de erosion potencial"><img style="border: 2px solid; color: Silver; " alt="Csuebdhfao.png" src="Imagenes/rep_cc_pm.jpg" /></a>
 </p>
 </div>
 
@@ -124,7 +124,7 @@ Capa sobre el Riesgo de erosion potencial de las tierras, basado en la metodolog
 <div style="font-size: 12px"> 
 |Descripcion|Nombre archivo|
 |:----|:---:|
-|Riesgo de erosion de los suelos Cuenca completa - 1:500.000|[Repccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/xxxx.zip)|
+|Riesgo de erosion de los suelos Cuenca completa - 1:500.000|[](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/xxxx.zip)|
 |Riesgo de erosion de los suelos Bajo Caroni - 1:250.000|[Repbcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repbcpm.zip)|
 |Riesgo de erosion de los suelos Medio Caroni - 1:250.000|[Repmcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repmcpm.zip)|
 |Riesgo de erosion de los suelos Alto Caroni Este - 1:250.000|[Repacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repacepm.zip)|
@@ -462,9 +462,9 @@ Capa de nitrogeno total den cg/Kg para toda la cuenca en una capa de tipo raster
 
 ---
 
-## Conductividad electrica {-}
+## Conductividad eléctrica {-}
 
-Capa de conductividad electrica en dS/m de los suelos para toda la cuenca en una capa de tipo raster con una resolucion espacial de 950 m, desarrollada para dos capas superficiales de suelos ( 0 a 30 cm y 30 a 100 cm) por **Victor Sevilla y FAO**.
+Capa de conductividad eléctrica en dS/m de los suelos para toda la cuenca en una capa de tipo raster con una resolución espacial de 950 m, desarrollada para dos capas superficiales de suelos ( 0 a 30 cm y 30 a 100 cm) por **Víctor Sevilla y FAO**.
 
 <div>
 <p style = 'text-align:center;'>
@@ -503,9 +503,9 @@ Capa tipo vectorial de sitios de muestreos de suelos dentro de la cuenca, origin
 
 ---
 
-## Area de Descargas {-}
+## Area de descargas {-}
 
-> Para descargar una tabla con la **lista de las capas** de georinformacion recolectadas y su respectiva **Metadata**, y ademas del **banco de informacion edafica** (directorio completo), haga clic en las figuras mostradas a continuacion.
+> Para descargar una tabla con la **lista de las capas** de geoinformación recolectadas y su respectiva **Metadata**, y además del **banco de información edáfica** (directorio completo), haga clic en las figuras mostradas a continuación.
 
 
 <div>

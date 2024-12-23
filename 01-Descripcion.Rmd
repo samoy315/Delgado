@@ -10,7 +10,7 @@ Otra fuente importante de información documental y cartográfica de la variable
 
 ---
 
-#### Area de Descargas {-}
+#### Area de descargas {-}
 
 
 > Para descargar el **documento descriptivos** de los suelos de la cuenca y la **tabla con los componentes taxonomicos por unidades cartograficas** para las dos escalas estudiadas (1:500.000 y 1:250.000) haga clic en las figuras mostradas a continuacion. 

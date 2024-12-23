@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Delgado/01-Descripcion.Rmd",
     "project_path": "01-Descripcion.Rmd",
     "type": "r_markdown",
-    "hash": "4026345262",
+    "hash": "2614799431",
     "contents": "",
     "dirty": false,
     "created": 1734827286519.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,5",
+        "cursorPosition": "13,0",
         "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1734896502,
+    "lastKnownWriteTime": 1734925112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1734896502797,
+    "last_content_update": 1734925112430,
     "read_only": false,
     "read_only_alternatives": []
 }

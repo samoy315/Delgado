@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Delgado/03-Base_datos.Rmd",
     "project_path": "03-Base_datos.Rmd",
     "type": "r_markdown",
-    "hash": "1113166802",
+    "hash": "1888289987",
     "contents": "",
     "dirty": false,
     "created": 1733628026652.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "513,191",
-        "scrollLine": "503"
+        "cursorPosition": "87,235",
+        "scrollLine": "82"
     },
     "folds": "",
-    "lastKnownWriteTime": 1734896553,
+    "lastKnownWriteTime": 1734926915,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1734896553700,
+    "last_content_update": 1734926915923,
     "read_only": false,
     "read_only_alternatives": []
 }
