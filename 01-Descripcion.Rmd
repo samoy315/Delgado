@@ -18,7 +18,7 @@ Otra fuente importante de información documental y cartográfica de la variable
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Suelos_Caroni_final201224.pdf" target="_blank" title="Documento descriptivo de suelos"><img src="Imagenes/archivo.png" alt="Documento descriptivo de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Suelos_Caroni_final050125.pdf" target="_blank" title="Documento descriptivo de suelos"><img src="Imagenes/archivo.png" alt="Documento descriptivo de suelos" width="126" height="107"/></a>
 <a style = 'padding-right: 40px;' href="Xls/Unidades_suelosvs.xlsx" target="_blank" title="Tabla de unidades de suelos"><img src="Imagenes/estadisticas1.png" alt="Tabla de unidades de suelos" width="126" height="107"/></a>
 </p>
 </div>
