@@ -26,19 +26,21 @@ La informacion de suelos esta expresada en dos distintas extensiones y escalas, 
 </p>
 </div>
 
-###### Enlaces para descarga {-}
- 
-<div style="font-size: 12px"> 
-|Descripcion|Nombre archivo|
-|:----|:---:|
-|Unidades de suelos Cuenca completa - 1:500.000|[Csueccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueccpm.zip)|
-|Unidades de suelos Bajo Caroni - 1:250.000|[Csuebcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)|
-|Unidades de suelos Medio Caroni - 1:250.000|[Csuemcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuemcpm.zip)|
-|Unidades de suelos Alto Caroni Este - 1:250.000|[Csueacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueacepm.zip)|
-|Unidades de suelos Alto Caroni Oeste - 1:250.000|[Csueacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueacopm.zip)|
-|Unidades de suelos Alto Paragua - 1:250.000|[Csueappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueappm.zip)|
-|Unidades de suelos Bajo Paragua - 1:250.000|[Csuebppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebppm.zip)|
-</div>
+<!-- ###### Enlaces para descarga {-} -->
+
+<!-- <div style="font-size: 12px">  -->
+<!-- |Descripcion|Nombre archivo| -->
+<!-- |:----|:---:| -->
+<!-- |Unidades de suelos Cuenca completa - 1:500.000|[Csueccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueccpm.zip)| -->
+<!-- |Unidades de suelos Bajo Caroni - 1:250.000|[Csuebcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebcpm.zip)| -->
+<!-- |Unidades de suelos Medio Caroni - 1:250.000|[Csuemcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuemcpm.zip)| -->
+<!-- |Unidades de suelos Alto Caroni Este - 1:250.000|[Csueacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueacepm.zip)| -->
+<!-- |Unidades de suelos Alto Caroni Oeste - 1:250.000|[Csueacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueacopm.zip)| -->
+<!-- |Unidades de suelos Alto Paragua - 1:250.000|[Csueappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csueappm.zip)| -->
+<!-- |Unidades de suelos Bajo Paragua - 1:250.000|[Csuebppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Csuebppm.zip)| -->
+<!-- </div> -->
+
+---
 
 
 ### Soilgrids {-}
@@ -60,6 +62,8 @@ De este estudio disponible en la web (https://soilgrids.org/) se obtuvieron dife
 |:------|:---:|
 |Base de referencia mundial (2006) Grupos de suelos - Resolucion 250 m|[Csuewrbsg](BDsuelos_Caroni\3_Geoinformacion\Raster\2_Soilgrids/Csuewrbsg.zip)|
 </div>
+
+---
 
 ### Base de datos de suelos armonizados de FAO {-}
 
@@ -93,19 +97,19 @@ Capa sobre la Capacidad de Uso de las tierras en la cuenca para dos alcance y es
 </p>
 </div>
 
-###### Enlaces para descarga {-}
- 
-<div style="font-size: 12px"> 
-|Descripcion|Nombre archivo|
-|:----|:---:|
-|Capacidad de uso de las tierras Cuenca completa - 1:500.000|[Cusoccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoccpm.zip)|
-|Capacidad de uso de las tierras Bajo Caroni - 1:250.000|[Cusobcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusobcpm.zip)|
-|Capacidad de uso de las tierras Medio Caroni - 1:250.000|[Cusomcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusomcpm.zip)|
-|Capacidad de uso de las tierras Alto Caroni Este - 1:250.000|[Cusoacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoacepm.zip)|
-|Capacidad de uso de las tierras Alto Caroni Oeste - 1:250.000|[Cusoacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoacopm.zip)|
-|Capacidad de uso de las tierras Alto Paragua - 1:250.000|[Cusoappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoappm.zip)|
-|Capacidad de uso de las tierras Bajo Paragua - 1:250.000|[Cusobppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusobppm.zip)|
-</div>
+<!-- ###### Enlaces para descarga {-} -->
+
+<!-- <div style="font-size: 12px">  -->
+<!-- |Descripcion|Nombre archivo| -->
+<!-- |:----|:---:| -->
+<!-- |Capacidad de uso de las tierras Cuenca completa - 1:500.000|[Cusoccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoccpm.zip)| -->
+<!-- |Capacidad de uso de las tierras Bajo Caroni - 1:250.000|[Cusobcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusobcpm.zip)| -->
+<!-- |Capacidad de uso de las tierras Medio Caroni - 1:250.000|[Cusomcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusomcpm.zip)| -->
+<!-- |Capacidad de uso de las tierras Alto Caroni Este - 1:250.000|[Cusoacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoacepm.zip)| -->
+<!-- |Capacidad de uso de las tierras Alto Caroni Oeste - 1:250.000|[Cusoacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoacopm.zip)| -->
+<!-- |Capacidad de uso de las tierras Alto Paragua - 1:250.000|[Cusoappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusoappm.zip)| -->
+<!-- |Capacidad de uso de las tierras Bajo Paragua - 1:250.000|[Cusobppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Cusobppm.zip)| -->
+<!-- </div> -->
 
 ---
 
@@ -119,19 +123,19 @@ Capa sobre el Riesgo de erosion potencial de las tierras, basado en la metodolog
 </p>
 </div>
 
-###### Enlaces para descarga {-}
- 
-<div style="font-size: 12px"> 
-|Descripcion|Nombre archivo|
-|:----|:---:|
-|Riesgo de erosion de los suelos Cuenca completa - 1:500.000|[Repccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repccpm.zip)|
-|Riesgo de erosion de los suelos Bajo Caroni - 1:250.000|[Repbcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repbcpm.zip)|
-|Riesgo de erosion de los suelos Medio Caroni - 1:250.000|[Repmcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repmcpm.zip)|
-|Riesgo de erosion de los suelos Alto Caroni Este - 1:250.000|[Repacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repacepm.zip)|
-|Riesgo de erosion de los suelos Alto Caroni Oeste - 1:250.000|[Repacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repacopm.zip)|
-|Riesgo de erosion de los suelos Alto Paragua - 1:250.000|[Repappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repappm.zip)|
-|Riesgo de erosion de los suelos Bajo Paragua - 1:250.000|[Repbppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repbppm.zip)|
-</div>
+<!-- ###### Enlaces para descarga {-} -->
+
+<!-- <div style="font-size: 12px">  -->
+<!-- |Descripcion|Nombre archivo| -->
+<!-- |:----|:---:| -->
+<!-- |Riesgo de erosion de los suelos Cuenca completa - 1:500.000|[Repccpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repccpm.zip)| -->
+<!-- |Riesgo de erosion de los suelos Bajo Caroni - 1:250.000|[Repbcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repbcpm.zip)| -->
+<!-- |Riesgo de erosion de los suelos Medio Caroni - 1:250.000|[Repmcpm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repmcpm.zip)| -->
+<!-- |Riesgo de erosion de los suelos Alto Caroni Este - 1:250.000|[Repacepm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repacepm.zip)| -->
+<!-- |Riesgo de erosion de los suelos Alto Caroni Oeste - 1:250.000|[Repacopm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repacopm.zip)| -->
+<!-- |Riesgo de erosion de los suelos Alto Paragua - 1:250.000|[Repappm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repappm.zip)| -->
+<!-- |Riesgo de erosion de los suelos Bajo Paragua - 1:250.000|[Repbppm](BDsuelos_Caroni\3_Geoinformacion\Vectorial\1_Plan_Maestro_2004/Repbppm.zip)| -->
+<!-- </div> -->
 
 ---
 
